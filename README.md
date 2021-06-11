@@ -1,5 +1,6 @@
-### Hi there 👋
-🌱 I’m currently learning NFT and Crytpo blockchain stuff 
+
+
+🌱 I’m currently learning NFT and Crytpo blockchain stuff $xtz 
 
 📫 How to reach me: @katzworld just about everywhere I am social
 
