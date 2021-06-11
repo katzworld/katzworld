@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+🌱 I’m currently learning NFT and Crytpo blockchain stuff 
+📫 How to reach me: @katzworld just about everywhere I am social 
+😄 Pronouns: HE/HIM 
 <!--
 **katzworld/katzworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
