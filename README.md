@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 😄 Pronouns: HE/HIM 
 - ⚡ Fun fact: ...
 -->
+I am attesting that this GitHub handle katzworld is linked to the Tezos account tz2M1AZa3C6ihfMhguKa8TeVRnFVxBazvTkY for tzprofiles
+
+sig:spsig1Wm8dBJAC7mW2DoeFZorV8rKoUPXuEfxpHhzKYhCJD67prRADHbj7VF7eBUKrojBw2PvrHTJQUUP1Z9MBumiuD3DVsfTiZ
