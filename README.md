@@ -11,7 +11,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... a NFT lottery 
+🔭 I’m currently working on ... a NFT lottery 
 🌱 I’m currently learning NFT and Crytpo blockchain stuff 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
