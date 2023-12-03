@@ -1,6 +1,8 @@
 
 
-🌱 I’m currently learning NFT and Crytpo blockchain stuff $xtz 
+🌱 I’m currently learning NFT and Crytpo blockchain stuff 
+api stats and game overlay for metaverse tmwstw 
+$etc $eth $xtz 
 
 📫 How to reach me: @katzworld just about everywhere I am social
 
